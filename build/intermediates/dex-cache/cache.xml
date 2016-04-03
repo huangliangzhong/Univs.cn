@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\liangzhong\AndroidStudioProjects\XinWenKeHuDuan\libs\image-loader-1.8.6.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="5134aea977ca8f2e16fd113e7cb3be05d9ae610b">
+        <dex dex="C:\Users\liangzhong\AndroidStudioProjects\XinWenKeHuDuan\build\intermediates\pre-dexed\debug\image-loader-1.8.6_cde7e841105392a371f8d27a5bd839c4efd32531.jar" />
+    </item>
+    <item
+        jar="C:\Users\liangzhong\AndroidStudioProjects\XinWenKeHuDuan\libs\gson-2.2.4.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="973e832af433b44c3ed11c426f2f390b29f3f3f8">
+        <dex dex="C:\Users\liangzhong\AndroidStudioProjects\XinWenKeHuDuan\build\intermediates\pre-dexed\debug\gson-2.2.4_32ad424e8be5f356be9374acff247d87c589a147.jar" />
+    </item>
+    <item
+        jar="C:\Users\liangzhong\AndroidStudioProjects\XinWenKeHuDuan\libs\SocialSDK_tencentWB_3.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d53a46eb19f4e70b25b06235447adb98fc2428ab">
+        <dex dex="C:\Users\liangzhong\AndroidStudioProjects\XinWenKeHuDuan\build\intermediates\pre-dexed\debug\SocialSDK_tencentWB_3_0cdc042cf04f7694e829b795be377db7da2cefa8.jar" />
+    </item>
+    <item
+        jar="C:\Users\liangzhong\AndroidStudioProjects\XinWenKeHuDuan\libs\SocialSDK_WeiXin_2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a67f8583b21c7491a57163e5f4788623bf12b4aa">
+        <dex dex="C:\Users\liangzhong\AndroidStudioProjects\XinWenKeHuDuan\build\intermediates\pre-dexed\debug\SocialSDK_WeiXin_2_dd4dddcd5d773002a328d9859813e67ce5b853d1.jar" />
+    </item>
+    <item
+        jar="C:\Users\liangzhong\AndroidStudioProjects\XinWenKeHuDuan\libs\SocialSDK_WeiXin_1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d7c2f29c05b35e8c8713be2b81c41cf18f98b64a">
+        <dex dex="C:\Users\liangzhong\AndroidStudioProjects\XinWenKeHuDuan\build\intermediates\pre-dexed\debug\SocialSDK_WeiXin_1_a7cbf02de65c87f2171b57b50f892bab890b93d7.jar" />
+    </item>
+    <item
+        jar="C:\Users\liangzhong\AndroidStudioProjects\XinWenKeHuDuan\libs\umeng-analytics-v5.2.4.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0f9eccf79ae6006e4346725b09114182dca0c023">
+        <dex dex="C:\Users\liangzhong\AndroidStudioProjects\XinWenKeHuDuan\build\intermediates\pre-dexed\debug\umeng-analytics-v5.2.4_ac19148222a483fffdc34c1fe8522ba8a87808c2.jar" />
+    </item>
+    <item
+        jar="C:\Users\liangzhong\AndroidStudioProjects\XinWenKeHuDuan\libs\async-http-1.4.3-official.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="101c146c567526438f6e48008b79a85726145795">
+        <dex dex="C:\Users\liangzhong\AndroidStudioProjects\XinWenKeHuDuan\build\intermediates\pre-dexed\debug\async-http-1.4.3-official_9583285b79b7bbb78ce43415ba0a980bbb728850.jar" />
+    </item>
+    <item
+        jar="C:\Users\liangzhong\AndroidStudioProjects\XinWenKeHuDuan\libs\SocialSDK_Sina.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="676d0f800b0124e4fd11f7358c8f873f76a59169">
+        <dex dex="C:\Users\liangzhong\AndroidStudioProjects\XinWenKeHuDuan\build\intermediates\pre-dexed\debug\SocialSDK_Sina_58d32fc2ce0bb6fb978c6bf3db5a0465bce87202.jar" />
+    </item>
+    <item
+        jar="C:\Users\liangzhong\AndroidStudioProjects\XinWenKeHuDuan\libs\SocialSDK_tencentWB_2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6f744074067eb201171c9c8ff1ca45ed821a76a8">
+        <dex dex="C:\Users\liangzhong\AndroidStudioProjects\XinWenKeHuDuan\build\intermediates\pre-dexed\debug\SocialSDK_tencentWB_2_e98ebcc60b8e55e7f646c0267d95a13ee62e2fc3.jar" />
+    </item>
+    <item
+        jar="C:\Users\liangzhong\AndroidStudioProjects\XinWenKeHuDuan\libs\android-support-v4.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4a6be13368bb64c5a0b0460632d228a1a915f58f">
+        <dex dex="C:\Users\liangzhong\AndroidStudioProjects\XinWenKeHuDuan\build\intermediates\pre-dexed\debug\android-support-v4_031ec76cd2280be6a3d13c3a95bfba13ec5a16d8.jar" />
+    </item>
+    <item
+        jar="C:\Users\liangzhong\AndroidStudioProjects\XinWenKeHuDuan\libs\umeng_social_sdk.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="5dd4446548e68a6a853b2de1b4b61046ad92ecff">
+        <dex dex="C:\Users\liangzhong\AndroidStudioProjects\XinWenKeHuDuan\build\intermediates\pre-dexed\debug\umeng_social_sdk_45091e1221c6df6e3b279315faf384b9a0f8f4c9.jar" />
+    </item>
+    <item
+        jar="C:\Users\liangzhong\AndroidStudioProjects\XinWenKeHuDuan\libs\SocialSDK_tencentWB_1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="328c5351cae13f2ab29450d22b6c02d0ac88a855">
+        <dex dex="C:\Users\liangzhong\AndroidStudioProjects\XinWenKeHuDuan\build\intermediates\pre-dexed\debug\SocialSDK_tencentWB_1_4d61a5d2b7ca24ddcdba29dc5187c6583286f4c9.jar" />
+    </item>
+    <item
+        jar="C:\Users\liangzhong\AndroidStudioProjects\XinWenKeHuDuan\libs\httpmime-4.1.3.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e70d34d98f7f7f3b2b92105b9f2fe2a7a7184461">
+        <dex dex="C:\Users\liangzhong\AndroidStudioProjects\XinWenKeHuDuan\build\intermediates\pre-dexed\debug\httpmime-4.1.3_0a843f3bf330884f1f33e218cc584e0a3ec388d0.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "C:\\Users\\liangzhong\\AndroidStudioProjects\\XinWenKeHuDuan\\build\\intermediates\\res\\merged\\debug\\anim\\umeng_socialize_fade_in.xml",
+        "source": "C:\\Users\\liangzhong\\AndroidStudioProjects\\XinWenKeHuDuan\\res\\anim\\umeng_socialize_fade_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\liangzhong\\AndroidStudioProjects\\XinWenKeHuDuan\\build\\intermediates\\res\\merged\\debug\\anim\\kk_menu_out.xml",
+        "source": "C:\\Users\\liangzhong\\AndroidStudioProjects\\XinWenKeHuDuan\\res\\anim\\kk_menu_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\liangzhong\\AndroidStudioProjects\\XinWenKeHuDuan\\build\\intermediates\\res\\merged\\debug\\anim\\ptr_slide_in_from_top.xml",
+        "source": "C:\\Users\\liangzhong\\AndroidStudioProjects\\XinWenKeHuDuan\\res\\anim\\ptr_slide_in_from_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\liangzhong\\AndroidStudioProjects\\XinWenKeHuDuan\\build\\intermediates\\res\\merged\\debug\\anim\\umeng_socialize_fade_out.xml",
+        "source": "C:\\Users\\liangzhong\\AndroidStudioProjects\\XinWenKeHuDuan\\res\\anim\\umeng_socialize_fade_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\liangzhong\\AndroidStudioProjects\\XinWenKeHuDuan\\build\\intermediates\\res\\merged\\debug\\anim\\ptr_slide_out_to_bottom.xml",
+        "source": "C:\\Users\\liangzhong\\AndroidStudioProjects\\XinWenKeHuDuan\\res\\anim\\ptr_slide_out_to_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\liangzhong\\AndroidStudioProjects\\XinWenKeHuDuan\\build\\intermediates\\res\\merged\\debug\\anim\\ptr_slide_out_to_top.xml",
+        "source": "C:\\Users\\liangzhong\\AndroidStudioProjects\\XinWenKeHuDuan\\res\\anim\\ptr_slide_out_to_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\liangzhong\\AndroidStudioProjects\\XinWenKeHuDuan\\build\\intermediates\\res\\merged\\debug\\anim\\umeng_socialize_shareboard_animation_in.xml",
+        "source": "C:\\Users\\liangzhong\\AndroidStudioProjects\\XinWenKeHuDuan\\res\\anim\\umeng_socialize_shareboard_animation_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\liangzhong\\AndroidStudioProjects\\XinWenKeHuDuan\\build\\intermediates\\res\\merged\\debug\\anim\\umeng_socialize_slide_out_from_bottom.xml",
+        "source": "C:\\Users\\liangzhong\\AndroidStudioProjects\\XinWenKeHuDuan\\res\\anim\\umeng_socialize_slide_out_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\liangzhong\\AndroidStudioProjects\\XinWenKeHuDuan\\build\\intermediates\\res\\merged\\debug\\anim\\kk_menu_in.xml",
+        "source": "C:\\Users\\liangzhong\\AndroidStudioProjects\\XinWenKeHuDuan\\res\\anim\\kk_menu_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\liangzhong\\AndroidStudioProjects\\XinWenKeHuDuan\\build\\intermediates\\res\\merged\\debug\\anim\\ptr_slide_in_from_bottom.xml",
+        "source": "C:\\Users\\liangzhong\\AndroidStudioProjects\\XinWenKeHuDuan\\res\\anim\\ptr_slide_in_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\liangzhong\\AndroidStudioProjects\\XinWenKeHuDuan\\build\\intermediates\\res\\merged\\debug\\anim\\umeng_socialize_slide_in_from_bottom.xml",
+        "source": "C:\\Users\\liangzhong\\AndroidStudioProjects\\XinWenKeHuDuan\\res\\anim\\umeng_socialize_slide_in_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\liangzhong\\AndroidStudioProjects\\XinWenKeHuDuan\\build\\intermediates\\res\\merged\\debug\\anim\\umeng_socialize_shareboard_animation_out.xml",
+        "source": "C:\\Users\\liangzhong\\AndroidStudioProjects\\XinWenKeHuDuan\\res\\anim\\umeng_socialize_shareboard_animation_out.xml"
+    }
+]

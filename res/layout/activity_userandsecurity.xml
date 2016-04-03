@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#fff"
+    android:orientation="vertical" >
+
+    <include layout="@layout/univs_layout_head_view" />
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/barline" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:gravity="center_vertical"
+        android:orientation="horizontal" >
+
+        <EditText
+            android:id="@+id/userandsecurity_phonrnumber_et"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:background="@null"
+            android:hint="手机号"
+            android:textColor="#a1a7bc"
+            android:textSize="24px" />
+
+        <ImageButton
+            android:id="@+id/userandsecurity_phonenumber_bt"
+            android:layout_width="45dp"
+            android:layout_height="30dp"
+            android:layout_marginLeft="210dp"
+            android:background="@null"
+            android:src="@drawable/joinico" />
+    </LinearLayout>
+
+    <View
+        android:layout_width="fill_parent"
+        android:layout_height="0.8dp"
+        android:layout_marginBottom="5dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:background="@color/driver_line" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:gravity="center_vertical"
+        android:orientation="horizontal" >
+
+        <EditText
+            android:id="@+id/userandsecurity_email_et"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:background="@null"
+            android:hint="邮箱"
+            android:textColor="#a1a7bc"
+            android:textSize="24px" />
+
+        <ImageButton
+            android:id="@+id/userandsecurity_email_bt"
+            android:layout_width="45dp"
+            android:layout_height="30dp"
+            android:layout_marginLeft="225dp"
+            android:background="@null"
+            android:src="@drawable/joinico" />
+    </LinearLayout>
+
+    <View
+        android:layout_width="fill_parent"
+        android:layout_height="0.8dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:background="@color/driver_line" />
+
+    <View
+        android:layout_width="fill_parent"
+        android:layout_height="0.8dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="20px"
+        android:background="@color/driver_line" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:gravity="center_vertical"
+        android:orientation="horizontal" >
+
+        <EditText
+            android:id="@+id/userandsecurity_xiugaimima_et"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:background="@null"
+            android:hint="修改密码"
+            android:textColor="#a1a7bc"
+            android:textSize="24px" />
+
+        <ImageButton
+            android:id="@+id/userandsecurity_xiugaimima_bt"
+            android:layout_width="45dp"
+            android:layout_height="30dp"
+            android:layout_marginLeft="195dp"
+            android:background="@null"
+            android:src="@drawable/joinico" />
+    </LinearLayout>
+
+    <View
+        android:layout_width="fill_parent"
+        android:layout_height="0.8dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:background="@color/driver_line" />
+
+</LinearLayout>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cn.univs.pulltorefresh.library.PullToRefreshListView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:prt="http://schemas.android.com/apk/res/cn.univs.app"
+    android:id="@+id/mylistView"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:divider="@drawable/news_list_line"
+    android:scrollbars="none"
+    prt:ptrAnimationStyle="flip" >
+
+</cn.univs.pulltorefresh.library.PullToRefreshListView>

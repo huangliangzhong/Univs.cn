@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- 下拉刷新顶部颜色 -->
+    <color name="bv_ptr_top_text">#616161</color>
+    <color name="bv_ptr_top_text_night">#FF6D6D6D</color>
+    <color name="bv_ptr_top_sub_text">#616161</color>
+    <color name="bv_ptr_top_sub_text_night">#FF646464</color>
+    <color name="bv_ptr_top_bg">#EFEFEF</color>
+    <color name="bv_ptr_top_bg_night">#202020</color>
+    <color name="bv_list_text_already_read">#8D8D8D</color>
+    <color name="bv_actionbar_shadow">#DDDDDD</color>
+    <color name="bv_actionbar_shadow_night">#3C3C3C</color>
+    <!-- 标题文字颜色 -->
+
+</resources>

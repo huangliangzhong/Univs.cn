@@ -1,0 +1,2 @@
+alias :univs
+password:univsandroid

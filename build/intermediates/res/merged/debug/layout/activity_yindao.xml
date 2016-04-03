@@ -1,0 +1,25 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/white" >
+
+    <android.support.v4.view.ViewPager
+        android:id="@+id/viewpager"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+    </android.support.v4.view.ViewPager>
+
+    <Button 
+        android:id="@+id/btn_begin"
+        android:layout_width="80dp"
+        android:layout_height="35dp"
+        android:layout_marginBottom="40dp"
+        android:text="开始体验"
+        android:textSize="16sp"
+        android:textColor="#4e6b19"
+        android:layout_centerHorizontal="true"
+        android:visibility="gone"
+        android:layout_alignParentBottom="true"
+        android:background="@drawable/selector_begin_bg"/>
+</RelativeLayout>

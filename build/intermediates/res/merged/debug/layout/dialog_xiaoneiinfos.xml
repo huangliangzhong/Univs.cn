@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical" >
+
+    <Button
+        android:id="@+id/xiaoneiinfos_jueseteacher_bt"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_gravity="center"
+        android:background="@null"
+        android:text="教师"
+        android:textColor="#a3a3a3"
+        android:textSize="24px" />
+
+    <View
+        android:layout_width="fill_parent"
+        android:layout_height="0.8dp"
+        android:background="@color/driver_line" />
+
+    <Button
+        android:id="@+id/xiaoneiinfos_juesestudent_bt"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_gravity="center"
+        android:background="#DE3332"
+        android:text="学生"
+        android:textColor="#fff"
+        android:textSize="24px" />
+
+    <View
+        android:layout_width="fill_parent"
+        android:layout_height="0.8dp"
+        android:background="@color/driver_line" />
+
+    <Button
+        android:id="@+id/xiaoneiinfos_juesefudaoyuan_bt"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_gravity="center"
+        android:background="@null"
+        android:text="辅导员"
+        android:textColor="#a3a3a3"
+        android:textSize="24px" />
+
+    <View
+        android:layout_width="fill_parent"
+        android:layout_height="0.8dp"
+        android:background="@color/driver_line" />
+
+</LinearLayout>

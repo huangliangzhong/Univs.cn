@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#fff"
+    android:orientation="vertical" >
+
+    <include layout="@layout/univs_layout_head_view" />
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/barline" />
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <EditText
+            android:id="@+id/huifureply_reply_et"
+            android:layout_width="match_parent"
+            android:layout_height="150dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="10dp"
+            android:gravity="start"
+            android:hint="回复XXX的评论"
+            android:textColor="#A0A8BD"
+            android:textSize="22px" />
+
+        <TextView
+            android:id="@+id/reply_tv"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_marginLeft="275dp"
+            android:layout_marginTop="130dp"
+            android:text="140"
+            android:textColor="#9FA7BC"
+            android:textSize="22px" />
+    </FrameLayout>
+
+</LinearLayout>
